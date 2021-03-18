@@ -1,2 +1,15 @@
 # configuration files(.ini)
 *.ini
+
+# html files
+*.htm
+*.html
+
+# c++ files
+*.cpp
+*.c++
+*.cc
+
+# java files
+*.java
+*.class
