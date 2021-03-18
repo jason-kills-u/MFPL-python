@@ -11,5 +11,7 @@ And also, MFPL means My First Programming Language. Still confused why no one us
 ### note: If you haven't downloaded python3, go ahead. And also make.
 
 Step 1: Navigate through your MFPL folder in your terminal. 
+
 Step 2: Type make
+
 Step 3: You are done!
