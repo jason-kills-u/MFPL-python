@@ -1,9 +1,5 @@
 import lib 
 import sys
-import configparser
-
-config = configparser.ConfigParser()
-config.read('config.ini')
 
 version = 2.0
 platform = sys.platform
