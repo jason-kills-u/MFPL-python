@@ -5,10 +5,16 @@
 *.htm
 *.html
 
-# c++ files
+# c++ source files
 *.cpp
 *.c++
+*.cxx
 *.cc
+
+# c++ header files
+*.hpp
+*.hxx
+*.hh
 
 # java files
 *.java
