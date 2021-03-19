@@ -18,10 +18,15 @@ int main(int argc, char const *argv[])
 		{
 			printf("A simple but frustating esotric programming language. This implementation is called PyMFPL\n");
 		}
-		if(strcmp(argv[1], "-v") == 0)
+		else if(strcmp(argv[1], "-v") == 0)
 		{
 			system("python3 src/main.py -v");
+		}	
+		else
+		{
+			char *temp = "python3 src/main.py ", *com;
+			sprintf(com, "%s%s", temp, argv[1]);
+			system(com);
 		}
-	}
 	return 0;
 }
