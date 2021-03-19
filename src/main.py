@@ -1,7 +1,7 @@
 import lib 
 import sys
 
-version = 2.0
+version = 1.0
 platform = sys.platform
 
 if len(sys.argv) == 2:
