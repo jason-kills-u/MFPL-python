@@ -12,11 +12,11 @@ int main(int argc, char const *argv[])
 	{
 		if(strcmp(argv[1], "-h") == 0)
 		{
-			printf("A simple but frustating esotric programming language. This implementation is called PyMFPL\n");
+			printf("A simple esotric programming language. This implementation is called PyMFPL\n");
 		}
 		else if(strcmp(argv[1], "--help") == 0)
 		{
-			printf("A simple but frustating esotric programming language. This implementation is called PyMFPL\n");
+			printf("A simple esotric programming language. This implementation is called PyMFPL\n");
 		}
 		else if(strcmp(argv[1], "-v") == 0)
 		{
