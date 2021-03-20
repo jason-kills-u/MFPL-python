@@ -1,21 +1,2 @@
-# configuration files(.ini)
-*.ini
-
-# html files
-*.htm
-*.html
-
-# c++ source files
-*.cpp
-*.c++
-*.cxx
-*.cc
-
-# c++ header files
-*.hpp
-*.hxx
-*.hh
-
-# java files
-*.java
 *.class
+*.exe
