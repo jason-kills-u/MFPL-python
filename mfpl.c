@@ -28,5 +28,6 @@ int main(int argc, char const *argv[])
 			sprintf(com, "%s%s", temp, argv[1]);
 			system(com);
 		}
+	
 	return 0;
 }
