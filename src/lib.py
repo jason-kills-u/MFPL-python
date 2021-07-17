@@ -74,7 +74,6 @@ class Interpreter(object):
 				tapeCounter += 1
 			elif i == MOVR:
 				tapeCounter -= 1
-			
 			elif i == OUT:
 				# debug!
 				print(chr(tape[tapeCounter]), end = '')
