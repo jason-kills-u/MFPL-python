@@ -1,6 +1,6 @@
 # Important!!
 
-this repository has been archived because the creator haven't found any maintainer(I mean why would anyone wants to maintain this piece of crap anyway) so this repository will just exist as an archive.
+this repository has been archived because the creator haven't found any maintainer(I mean why would anyone wants to maintain this piece of crap anyway), and the creator is also tired of maintaining this mess, so this repository will just exist as an archive.
 
 
 # MFPL
