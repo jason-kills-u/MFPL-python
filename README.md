@@ -1,14 +1,9 @@
-# Important!!
-
-this repository has been archived because the creator haven't found any maintainer(I mean why would anyone wants to maintain this piece of crap anyway), and the creator is also tired of maintaining this mess, so this repository will just exist as an archive.
-
-
 # MFPL
 
 ## Intro
 An esoteric programming language. This implementation is written primarily in python.
 
-This esotric programming language is based of bf(brainf!ck), with '+' as add, '-' as sub, '.' as out, ',' as in, '>' as movr and '<' as movl. The only difference is that loop aren't added yet 
+This esotric programming language is based of bf(brainf!ck), with '+' as add, '-' as sub, '.' as out, ',' as in, '>' as movr and '<' as movl. The only difference is the loop.
 
 And also, MFPL means My First Programming Language
 
